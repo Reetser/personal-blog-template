@@ -10,9 +10,16 @@ It’s mostly for my own use and learning.
 - Focused on privacy, simplicity, and long-term maintainability.
 
 ## Contributions
-This is a **personal project**.  
-- **Pull Requests (PRs) will not be accepted.**  
+This is a ** project**.  
+- **Pull Requests (PRs) will be accepted.**  
 - If you find issues, you are welcome to fork the repository and experiment on your own copy.  
+
+# Feaures
+- Age Verification
+- Functional Search
+- Dynamic Meta Tags
+- Video Playlist
+- more..
 
 ## License
 This project is not intended for redistribution or commercial use.  
