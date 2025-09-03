@@ -14,7 +14,7 @@ This is a ** project**.
 - **Pull Requests (PRs) will be accepted.**  
 - If you find issues, you are welcome to fork the repository and experiment on your own copy.  
 
-# Feaures
+# Features
 - Age Verification
 - Functional Search
 - Dynamic Meta Tags
